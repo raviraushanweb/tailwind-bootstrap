@@ -4,6 +4,6 @@ If you are thinking to create any web design in Tailwind, You don't have to do a
 
 ## Steps to clone
 
-`git clone https://github.com/raviraushanweb/tailwind-bootstrap.git`
+```git clone https://github.com/raviraushanweb/tailwind-bootstrap.git```
 
-`npm install`
+```npm install```
